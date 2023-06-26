@@ -1,0 +1,9 @@
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/controller/UpdateController.java
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/utils/MessageUtils.java
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/services/impl/AnswerConsumerImpl.java
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/services/impl/UpdateProducerImpl.java
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/configuration/RabbitConfiguration.java
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/services/UpdateProducer.java
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/services/AnswerConsumer.java
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/DispatcherApplication.java
+/Users/sardartatybaev/Documents/it-school/sqlDataBase/GethoopeBot/dispatcher/src/main/java/ru/relex/controller/TelegramBot.java

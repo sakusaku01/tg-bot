@@ -1,0 +1,9 @@
+ru/relex/controller/TelegramBot.class
+ru/relex/utils/MessageUtils.class
+ru/relex/services/impl/AnswerConsumerImpl.class
+ru/relex/services/UpdateProducer.class
+ru/relex/services/AnswerConsumer.class
+ru/relex/services/impl/UpdateProducerImpl.class
+ru/relex/configuration/RabbitConfiguration.class
+ru/relex/controller/UpdateController.class
+ru/relex/DispatcherApplication.class
